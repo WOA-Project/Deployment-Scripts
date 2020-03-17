@@ -18,7 +18,7 @@ FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SU
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.MOBILE_BRIDGE.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.MOBILE_COMPONENTS.zip"
 # Configuring device
-Copy "Downloaded\MSM8994.UEFI.Lumia.950.XL\ELF\UEFI.elf" "[EFIESP]\"
+Copy "Downloaded\MSM8992.UEFI.Lumia.950\ELF\UEFI.elf" "[EFIESP]\"
 Copy "Downloaded\UEFI Loader for 8992 and 8994\ARM\Debug\BootShim.efi" "[EFIESP]\EFI\boot\"
 ConfigureBCD
 InstallDevMenu "Core\Developer Menu\"
