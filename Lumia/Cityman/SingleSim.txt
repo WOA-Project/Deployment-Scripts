@@ -27,7 +27,7 @@ DeployWindows
 MakeWindowsBootable
 CopyDirectory "[DPP]" "[Windows]\DPP"
 # Injecting Drivers
-InjectDrivers "Downloaded\DEVICE.INPUT.SYNAPTICS_RMI4"
+InjectDrivers "Downloaded\DEVICE.INPUT.SYNAPTICS_RMI4_F12_10"
 InjectDrivers "Downloaded\DEVICE.SOC_QC8994.CITYMAN"
 InjectDrivers "Downloaded\DEVICE.USB.MMO_USBC"
 InjectDrivers "Downloaded\OEM.SOC_QC8994.MMO"
