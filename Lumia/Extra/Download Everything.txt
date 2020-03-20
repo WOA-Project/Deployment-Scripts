@@ -7,7 +7,7 @@ FetchGitHubBranch "https://github.com/WOA-Project/Support-Desktop-Drivers" "1912
 FetchGitHubBranch "https://github.com/WOA-Project/Specifics-MMO-Drivers" "1912"
 FetchGitHubBranch "https://github.com/WOA-Project/Specifics-Cityman" "1912"
 FetchGitHubBranch "https://github.com/WOA-Project/Specifics-Talkman" "1912"
-FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.INPUT.SYNAPTICS_RMI4.zip"
+FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.INPUT.SYNAPTICS_RMI4_F12_10.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.SOC_QC8994.CITYMAN.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.SOC_QC8994.TALKMAN.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.USB.MMO_USBC.zip"

@@ -3,7 +3,7 @@ FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "CH
 DisplayMarkdown "Downloaded\CHANGELOG\changelog.md"
 FetchAzureDevOpsArtifact "LumiaWOA;Boot Shim;3;UEFI Loader for 8992 and 8994"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia950XLPkg" "MSM8994.UEFI.Lumia.950.XL.zip"
-FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.INPUT.SYNAPTICS_RMI4.zip"
+FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.INPUT.SYNAPTICS_RMI4_F12_10.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.SOC_QC8994.CITYMAN.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "DEVICE.USB.MMO_USBC.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "OEM.SOC_QC8994.MMO.zip"
