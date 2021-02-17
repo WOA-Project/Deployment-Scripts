@@ -23,7 +23,6 @@ FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SU
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.MOBILE_COMPONENTS.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.MOBILE_RIL.zip"
 FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.MOBILE_RIL_EXTRAS.zip"
-FetchGitHubLatestReleaseAsset "https://github.com/WOA-Project/Lumia-Drivers" "SUPPORT.DESKTOP.PHONE_SERVICE.zip"
 # Configuring device
 Copy "Downloaded\MSM8994.UEFI.Lumia.950.XL\ELF\UEFI.elf" "[EFIESP]\"
 Copy "Downloaded\UEFI Loader for 8992 and 8994\ARM\Debug\BootShim.efi" "[EFIESP]\EFI\boot\"
@@ -54,4 +53,3 @@ InjectDrivers "Downloaded\SUPPORT.DESKTOP.MOBILE_BRIDGE"
 InjectDrivers "Downloaded\SUPPORT.DESKTOP.MOBILE_COMPONENTS"
 InjectDrivers "Downloaded\SUPPORT.DESKTOP.MOBILE_RIL"
 InjectDrivers "Downloaded\SUPPORT.DESKTOP.MOBILE_RIL_EXTRAS"
-InjectDrivers "Downloaded\SUPPORT.DESKTOP.PHONE_SERVICE"
